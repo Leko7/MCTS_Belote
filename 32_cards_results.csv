@@ -1,0 +1,5 @@
+Algorithm,Average Score,STD,Win Rate,Draw Rate,Time per Move
+Cheating UCT,85.73 (/152),32.49,70.0%,3.33%,0.46 seconds
+Sampled All Worlds UCT (max times best action),95.73 (/152),35.46,70.0%,3.33%,21.2 seconds
+Sampled All Worlds UCT (max total reward action),97.9 (/152),31.75,70.0%,3.33%,20.23 seconds
+SO-ISMCTS,93.2 (/152),35.37,80.0%,0.0%,11.07 seconds
