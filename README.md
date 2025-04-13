@@ -1,5 +1,7 @@
 Course Project on Imperfect Information Monte-Carlo Tree Search algorithms.
 
+Please look at `Olech_Alexandre_Report.pdf` for the report.
+
 The goal is to solve French Belote in two settings : 
 - A simplified setting with only 12 cards, where all possible states are tried.
 - The full 32 cards game, where the algorithms sample possible states instead of performing exhaustive search.
